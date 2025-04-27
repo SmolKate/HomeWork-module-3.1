@@ -1,0 +1,16 @@
+This project was performed using TypeScript.
+
+# Run project
+
+It is neseccary to perform the following command `tsc` and `node data-request-app` in order to start the project.
+
+# Project target
+
+This project was carried out for educational purposes. It was necessary to implement the function which gets data from a given url and logs it in the following type:
+```
+ID: 1, Email: Eliseo...
+ID: 2, Email: Jayne_Kuhic...
+ID: 3, Email: Nikita...
+ID: 4, Email: Lew...
+...
+```
